@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListApplication2</string>
+
+    <string-array name="items">
+        <item>Peaches</item>
+        <item>Bananas</item>
+        <item>Apples</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$2.50</item>
+        <item>$1.30</item>
+        <item>$3.00</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Georgia Peaches</item>
+        <item>Organic Bananas</item>
+        <item>An Apple a day keeps the doctor away</item>
+    </string-array>
+</resources>
