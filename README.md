@@ -1,12 +1,12 @@
 # ListApplication-redo-
 
-<h1>I didn't do this app correctly the first time around and that kept bothering me, so I attempted it again and it came out perfect!
+I didn't do this app correctly the first time around and that kept bothering me, so I attempted it again and it came out perfect!
 
 <h3>In doing this app I learned:</h3>
 
-<h4>how to use ListView to display a list.</h4>
-<h4>how to create a custom layout component to make a simple app.</h4>
-<h4>how to incorporate images with ImageView.</h4>
+how to use ListView to display a list.
+how to create a custom layout component to make a simple app.
+how to incorporate images with ImageView.
 
 I created a list with 3 items along with their price and description. When you click an item(I clicked the apples) the emulator switches screens to an image of the item.
 
