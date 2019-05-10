@@ -4,9 +4,9 @@ I didn't do this app correctly the first time around and that kept bothering me,
 
 <h3>In doing this app I learned:</h3>
 
-how to use ListView to display a list.
-how to create a custom layout component to make a simple app.
-how to incorporate images with ImageView.
+<h5>how to use ListView to display a list.</h5>
+<h5>how to create a custom layout component to make a simple app.</h5>
+<h5>how to incorporate images with ImageView.</h5>
 
 I created a list with 3 items along with their price and description. When you click an item(I clicked the apples) the emulator switches screens to an image of the item.
 
